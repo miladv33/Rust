@@ -1,5 +1,7 @@
-mod Printer;
+// mod Printer;
+mod StringPrinter;
 
 fn main() {
-    Printer::print()
+    // Printer::print()
+    StringPrinter::run()
 }
