@@ -1,3 +1,5 @@
+mod Printer;
+
 fn main() {
-    println!("Hello, world!");
+    Printer::print()
 }
